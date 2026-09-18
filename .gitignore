@@ -1,0 +1,6 @@
+sim_build/
+*.out
+*.vcd
+*.log
+__pycache__/
+.DS_Store
